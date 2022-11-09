@@ -1,0 +1,32 @@
+[
+    {
+        "index": 12154,
+        "ime": "Nikola",
+        "prezime": "Dragojevic",
+        "datumRodjenja": "12-06-2002",
+        "mestoRodjenja": "Kragujevac",
+        "datumUpisa": "01-10-2021",
+        "ocene": "6, 5, 4",
+        "prosek": ""
+    },
+    {
+        "index": 32154,
+        "ime": "Marko",
+        "prezime": "Nikolic",
+        "datumRodjenja": "09-05-2002",
+        "mestoRodjenja": "Kragujevac",
+        "datumUpisa": "01-10-2021",
+        "ocene": "9, 9, 9",
+        "prosek": ""
+    },
+    {
+        "index": 52154,
+        "ime": "Dunja",
+        "prezime": "Ilic",
+        "datumRodjenja": "02-11-2002",
+        "mestoRodjenja": "Kragujevac",
+        "datumUpisa": "01-12-2022",
+        "ocene": "7, 8, 6",
+        "prosek": ""
+    }
+]

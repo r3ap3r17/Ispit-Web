@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: .5rem;
+    background-color: #DAF0E7;
+    color: #1f1f1f;
+}
+
+.wrapp {
+    width: 996px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 1rem auto;
+}
+
+table {
+    background-color: #C8E9DC;
+}
+
+table td,
+table th {
+    color: #f1f1f1;
+    padding: .75rem 1.5rem;
+    border: 1px solid rgba(0, 0, 0, .1);
+    font-size: 15px;
+}
+
+table td {
+    color: #1f1f1f;
+    cursor: pointer;
+    transition: all .25s ease;
+}
+
+table td {
+    transition: all .35s ease;
+}
+
+
+table th {
+    background-color: #6688B0;
+}
+
+button {
+    border: none;
+    color: #f1f1f1;
+    padding: .75rem;
+    font-size: 1.25rem;
+    background-color: #6688B0;
+    transition: all .25s;
+    margin-inline: 1rem;
+    transition: all .25s ease;
+}
+
+.inputs {
+    display: flex;
+    align-items: center;
+    padding: 2rem 0;
+}
+
+.inputs input {
+    outline: 0;
+    padding: .5rem;
+    border: 1px solid rgba(0, 0, 0, .2);
+    margin-inline: 2px;
+    width: 138px;
+}
+
+table tr:hover,
+button:hover {
+    opacity: .5;
+}
